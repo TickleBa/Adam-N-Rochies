@@ -2,7 +2,8 @@
 > Open this page at [https://tickleba.github.io/adam-n-rochies/](https://tickleba.github.io/adam-n-rochies/)
 
 ## Hey guys galls and maybe pals me and adam o sullivan are making a shake up
-<img title="a title" alt="Alt text" src="[/images/boo.svg](https://tineye.com/api/v1/query/14091045e9faf7e829fd63592421712debf02d7e?size=160)">
+<img title="a title" alt="Alt text" src="["https://github.com/user-attachments/assets/4bb2bc3e-59d2-4a96-8d36-505821b5655d" />]
+)">
 
 
 ## Edit this project
