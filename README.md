@@ -1,14 +1,9 @@
 
 > Open this page at [https://tickleba.github.io/adam-n-rochies/](https://tickleba.github.io/adam-n-rochies/)
 
-## Use as Extension
+## Hey guys galls and maybe pals me and adam o sullivan are making a shake up
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tickleba/adam-n-rochies** and import
+https://tineye.com/api/v1/query/14091045e9faf7e829fd63592421712debf02d7e?size=160
 
 ## Edit this project
 
